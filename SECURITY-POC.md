@@ -1,0 +1,1 @@
+"# Security research PoC \u2014 no functional change\n\nBranch name is a proof-of-concept for GitHub Actions template injection\n(CI workflow interpolates ${{ github.head_ref }} into a shell run step).\nReported via Vercel's HackerOne program (handle duc193). Do not merge.\n"
